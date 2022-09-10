@@ -1,2 +1,4 @@
-package basics.Inheritance;public class MyCalc2 {
+package basics.Inheritance;
+
+public class MyCalc2 {
 }
